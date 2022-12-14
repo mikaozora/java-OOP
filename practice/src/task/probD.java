@@ -35,9 +35,9 @@ public class probD {
                 }else{
                     System.out.print(num + " ");
                 }
-                System.out.println(arr[i]);
+                System.out.printf("%.2f\n", arr[i]);
             }else{
-                System.out.println(num + " " + arr[i]);
+                System.out.printf("%d %.2f\n", num, arr[i]);
             }
             num++;
         }
