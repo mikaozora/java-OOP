@@ -34,6 +34,7 @@ public class probD {
                     System.out.print(num-count + " ");
                 }else{
                     System.out.print(num + " ");
+                    count = 0;
                 }
                 System.out.printf("%.2f\n", arr[i]);
             }else{
