@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4be8a613-3f9e-40b4-b310-e6a72ce05b8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/Bank ABC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/App/Deposit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/App/Nasabah.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/App/Report.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/App/Saving.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/App/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/Menu/NasabahMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/out/production/Bank ABC/Menu/UserMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/Nasabah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/Rekening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/Saving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/App/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/Menu/DepositMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/Menu/NasabahMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/Menu/SavingMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank ABC/src/Menu/UserMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/School_Sys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Actors/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Actors/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Actors/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Menus/StudentMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Menus/TeacherMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Studies/AssignmentInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Studies/Lesson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Studies/TestInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Utilities/SystemRelated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Classes/Utilities/Template.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/out/production/School_Sys/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Actors/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Actors/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Actors/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Menus/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Menus/TeacherMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Studies/AssignmentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Studies/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Studies/TestInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Utilities/SystemRelated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Classes/Utilities/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School_Sys/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/latian/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LzakMguiVXnqv6gzWG62Gt5OiE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/kuliah/Cawu2/Object Oriented Programming/java/eclipse"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be8a613-3f9e-40b4-b310-e6a72ce05b8c" name="Changes" comment="" />
+      <created>1676876506335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676876506335</updated>
+    </task>
+    <servers />
+  </component>
+</project>
