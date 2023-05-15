@@ -11,6 +11,8 @@ public class CovariantApp {
     public static void main(String[] args) {
         MyData<String> data1 = new MyData<>("mika");
         process(data1);
+        MyData<Integer> data2 = new MyData<>(100);
+        process(data2);
     }
     public static void process(MyData<? extends Object> data){
         System.out.println(data.getData());

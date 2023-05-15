@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0695e9f-dbc5-4d24-9a94-bb2706016e85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kantor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/ISalary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/IWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/App/VicePresident.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kantor/Menu/MainMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/ISalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/IWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/ManagerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/VpMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/CovariantApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/CovariantApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/GenericMethodApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/GenericMethodApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/utils/ArrayHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/out/production/practice/practice/Generic/utils/ArrayHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/practice/Generic/CovariantApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/practice/Generic/CovariantApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/practice/Generic/GenericMethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/practice/Generic/GenericMethodApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/practice/Generic/utils/ArrayHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/src/practice/Generic/utils/ArrayHelper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pd4GK1Op0S0jYG2nb0FbiijYC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/kuliah/Cawu2/Object Oriented Programming/java/sekolahan"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Kantor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0695e9f-dbc5-4d24-9a94-bb2706016e85" name="Changes" comment="" />
+      <created>1683773531315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683773531315</updated>
+    </task>
+    <servers />
+  </component>
+</project>
